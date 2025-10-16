@@ -3,7 +3,7 @@ console.log(person); // undefined
 person = 'YOOMI';
 var person;
 
-console.log(person); // YOUNG MIN
+console.log(person); // YOOMI
 
 /**
  * 1번 째 console.log(person)은 런타임 이전 "변수 선언"까지만 실행된 이후 출력 -> undefined
