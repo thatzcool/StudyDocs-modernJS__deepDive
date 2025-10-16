@@ -12,7 +12,7 @@ var result = 10 + 20;
 - 변수에 값을 저장하는 행위 = `할당(Assignment, 대입, 저장)`
 - 변수에 저장된 값을 읽어 들이는 것 = `참조(Reference)`
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbb5job%2FbtrlyrbOF7F%2FPSQkjJo4Ckwy19cbEcqjdK%2Fimg.png" width="500" height="400">
+
 
 ```
 [ 💡 Note ]
